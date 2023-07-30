@@ -1,4 +1,4 @@
-<h1> <ins> Calculator </ins>  </h1>
+<h1><ins> Calculator </ins></h1>
 
 <h2>A basic calculator</h2>
 
